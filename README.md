@@ -1,4 +1,4 @@
-# :bird: pterodactyl-installer
+# :bird: YokiHost-installer
 
 ![Test Panel](https://github.com/pterodactyl-installer/pterodactyl-installer/actions/workflows/panel.yml/badge.svg)
 ![Test Wings](https://github.com/pterodactyl-installer/pterodactyl-installer/actions/workflows/wings.yml/badge.svg)
@@ -13,15 +13,15 @@ Read more about [Pterodactyl](https://pterodactyl.io/) here. This script is not 
 
 ## Features
 
-- Automatic installation of the Pterodactyl Panel (dependencies, database, cronjob, nginx).
-- Automatic installation of the Pterodactyl Wings (Docker, systemd).
+- Automatic installation of the YokiHost Panel (dependencies, database, cronjob, nginx).
+- Automatic installation of the YokiHost Wings (Docker, systemd).
 - Panel: (optional) automatic configuration of Let's Encrypt.
 - Panel: (optional) automatic configuration of firewall.
 - Uninstallation support for both panel and wings.
 
 ## Help and support
 
-For help and support regarding the script itself and **not the official Pterodactyl project**, you can join the [Discord Chat](https://pterodactyl-installer.se/discord).
+For help and support regarding the script itself and **not the official YokiHost project**, you can join the [Discord Chat](https://discord.gg/2CExHn4G6v).
 
 ## Supported installations
 
